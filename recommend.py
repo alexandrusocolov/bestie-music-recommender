@@ -5,7 +5,6 @@ import warnings
 from utils import cosine_similarity
 from mutagen.mp3 import MP3
 from musicnn.extractor import extractor
-from musicnn.tagger import top_tags
 
 # ignore all warnings
 warnings.filterwarnings("ignore")
