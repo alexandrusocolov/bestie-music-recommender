@@ -1,6 +1,6 @@
 # Bestie
 
-**Bestie** is a command-line Python utility for recommending songs similar to an input power by a pre-trained neural network [MusicNN (Pons, 2019)](https://github.com/jordipons/musicnn).
+**Bestie** is a command-line Python utility for recommending songs similar to an input powered by a pre-trained neural network [MusicNN (Pons, 2019)](https://github.com/jordipons/musicnn).
 
 ## Usage
 
