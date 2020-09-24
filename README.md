@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-python3 recommend.py path_to_file.mp3
+python3 recommend.py path_to_file.mp3 
 ```
 
 Where `path_to_file.mp3` is a path to the audio you want to get similar songs for. After running this command, **Bestie** will create a folder called `your_recommendations` with the recommended songs. The rank from most recommended (1) till least (3 by default, changable in `recommend.py`) is at the end of the file name, e.g. `troye1_n2.mp3` means song called `troye1.mp3` is second-most suggested.
