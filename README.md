@@ -21,10 +21,13 @@ All in all, for a given path to an audio provided in the command line:
 
 ## FAQs
 *What to do if I want to add more audios?*
+
 Add them to `music` folder and re-run `create_dataset.py`.
 
 *How do I recommend more audios than just 3?*
+
 Change the `top_n` parameter in `recommend.py`.
 
 *Can I get a recommendation for a song that is not in `mp3` format?*
+
 Unfortunately, the script has only been tested on `mp3` files so I cannot promise a stable performance for anything other than `mp3`.
